@@ -25,4 +25,34 @@
 			'dateOfBirth': DateTime(2005, 3, 10).toIso8601String(),
 		},
 	]
+	
+	"accounts": [
+		{
+		'id':1,
+		'userId':1,
+		'username': 'hieu',
+		'password': '123',
+		'status':'active',
+		'lastLogin':'2026-11-14T00:34:10.000Z',
+		'createAT':'2026-11-13T00:00:00.000Z',
+		},
+		{
+		'id':2,
+		'userId':2,
+		'username': 'hung',
+		'password': '123',
+		'status':'active',
+		'lastLogin':'2026-11-14T00:36:10.000Z',
+		'createAT':'2026-11-13T00:00:00.000Z',
+		},
+		{
+		'id':3,
+		'userId':3,
+		'username': 'dong',
+		'password': '123',
+		'status':'active',
+		'lastLogin':'2026-11-14T00:38:10.000Z',
+		'createAT':'2026-11-13T00:00:00.000Z',
+		},
+	]
 }
