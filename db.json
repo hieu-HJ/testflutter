@@ -1,42 +1,28 @@
-[
-	{
-	'id':1,
-  'name': 'Nguyễn Xuân Hiếu',
-  'email': 'nxh@gmail.com',
-  'phone': '0123456789',
-  'avatar': null,
-  'dateOfBirth': DateTime(2005, 10, 13).toIso8601String(),
-  },
-  {
-	'id':2,
-  'name': 'Bùi Tuấn Hưng',
-  'email': 'bth@gmail.com',
-  'phone': '0258134679',
-  'avatar': null,
-  'dateOfBirth': DateTime(2005, 8, 21).toIso8601String(),
-  },
-  {
-	'id':3,
-  'name': 'Nguyễn Hữu Đông',
-  'email': 'nhd@gmail.com',
-  'phone': '0147923568',
-  'avatar': null,
-  'dateOfBirth': DateTime(2005, 3, 10).toIso8601String(),
-  },
-  {
-	'id':4,
-  'name': 'Phạm Văn Khải',
-  'email': 'pvk@gmail.com',
-  'phone': '0246813579',
-  'avatar': null,
-  'dateOfBirth': DateTime(2005, 11, 25).toIso8601String(),
-  },
-  {
-	'id':5,
-  'name': 'Lê Văn Kiên',
-  'email': 'lvk@gmail.com',
-  'phone': '0135792468',
-  'avatar': null,
-  'dateOfBirth': DateTime(2005, 7, 8).toIso8601String(),
-  },
-]
+{
+	"users": [
+			{
+			'id':1,
+			'name': 'Nguyễn Xuân Hiếu',
+			'email': 'nxh@gmail.com',
+			'phone': '0123456789',
+			'avatar': null,
+			'dateOfBirth': DateTime(2005, 10, 13).toIso8601String(),
+			},
+			{
+			'id':2,
+			'name': 'Bùi Tuấn Hưng',
+			'email': 'bth@gmail.com',
+			'phone': '0258134679',
+			'avatar': null,
+			'dateOfBirth': DateTime(2005, 8, 21).toIso8601String(),
+			},
+			{
+			'id':3,
+			'name': 'Nguyễn Hữu Đông',
+			'email': 'nhd@gmail.com',
+			'phone': '0147923568',
+			'avatar': null,
+			'dateOfBirth': DateTime(2005, 3, 10).toIso8601String(),
+		},
+	]
+}
